@@ -1,4 +1,5 @@
 //conectar la segunda mpu en ADO en lugar de vcc
+//cable amarillo g22 cable verde g21
 #include <Adafruit_MPU6050.h>
 #include <Adafruit_Sensor.h>
 #include <Wire.h>
